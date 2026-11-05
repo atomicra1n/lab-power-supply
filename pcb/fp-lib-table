@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "lab-power-supply") (type "KiCad") (uri "${KIPRJMOD}/lib/lab-power-supply.pretty") (options "") (descr ""))
+)
