@@ -17,7 +17,7 @@
 1. [2026-11-05: # Nov 4: First work and schematic](#2026-11-05-nov-4-first-work-and-schematic)
 2. [2026-11-05: # Nov 5: Finished schematic and footprints](#2026-11-05-nov-5-finished-schematic-and-footprints)
 3. [2026-11-05: # Nov 5: Beginning PCB work](#2026-11-05-nov-5-beginning-pcb-work)
-4. [2026-11-06: # Nov 7: Finishing the PCB](#2026-11-06-nov-7-finishing-the-pcb)
+4. [2026-11-06: # Nov 6: Finishing the PCB](#2026-11-06-nov-6-finishing-the-pcb)
 5. [2026-11-07: # Nov 7: CAD work](#2026-11-07-nov-7-cad-work)
 
 ## Design
@@ -116,11 +116,11 @@ For the remaining parts, I flipped them all to the back and began placing. The p
 
 **Total time spent: ~2 hours**
 
-### 2026-11-06: # Nov 7: Finishing the PCB
+### 2026-11-06: # Nov 6: Finishing the PCB
 
 **4h**
 
-# Nov 7: Finishing the PCB
+# Nov 6: Finishing the PCB
 
 Today I got the PCB done. First, I setup track widths (1.5mm for power and 0.4mm for the rest), but I quickly ran into issues with the wider tracks, as they wouldn't fit in tighter places and there wasn't much of an easy way to route around it. This was mainly the issue for the VIN net, I had to route the main trunk at 1.5 milimeters and the smaller branches kept at 0.4mm which let them reach in harder to reach spots.
 
